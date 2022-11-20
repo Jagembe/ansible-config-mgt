@@ -2,4 +2,4 @@
 
 Updating on 10/24/2022
 
-Jenkins changed folder permission ubuntu ubuntu
+Sunday - Save Artifacts
